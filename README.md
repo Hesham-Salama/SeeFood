@@ -3,9 +3,9 @@
 Compatibility:
 Xcode 10 - Swift 4.2
 
-This app uses CoreML and a ready-to-go Inception V3 model to classify objects, example in the app to detect Hotdogs.
+This app uses CoreML and a ready-to-go Inception V3 model to classify objects. Example: to detect Hotdogs.
 
-Just select from photo library to check the object the picture if it is classified as your desired object or not
+Just select from the photo library to check the object in the picture if it is classified as your desired object.
 
 You need to download Inception V3 model first and put it in SeeFood/ directory in Xcode.
 
